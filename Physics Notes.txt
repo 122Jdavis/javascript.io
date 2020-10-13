@@ -1,0 +1,2 @@
+System object(s): ball
+Ball moved in the downward direction (which will be the "+y" direction for this reference frame)
